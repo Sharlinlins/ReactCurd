@@ -1,0 +1,30 @@
+{
+  "employees": [
+    {
+      "name": "Sharlin",
+      "email": "Sharlin@gmail.com",
+      "status": "1",
+      "id": 1
+    },
+    {
+      "name": "Berjin",
+      "email": "Berjin@gmail.com",
+      "status": "0",
+      "id": 2
+    },
+    {
+      "name": "Jack",
+      "email": "Jack@gmail.com",
+      "status": "1",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "username": "Admin",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "id": 1
+    }
+  ]
+}
